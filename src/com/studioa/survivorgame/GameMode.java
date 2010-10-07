@@ -21,7 +21,6 @@ import org.anddev.andengine.sensor.accelerometer.IAccelerometerListener;
  * The idea behind this class and it's implementations is to be run as 
  * an activity in Android.
  * 
- * @author Marlon Etheredge <marlon.etheredge@gmail.com>
  * @version 0.1alpha
  */
 public abstract class GameMode extends Base implements IAccelerometerListener

@@ -30,8 +30,7 @@ import android.hardware.SensorManager;
  * 
  * This class contains all functions and routines for the air level
  * gamemode.
- * 
- * @author  Marlon Etheredge <marlon.etheredge@gmail.com>
+ *
  * @version 0.1alpha
  * @see     GameMode.java
  */

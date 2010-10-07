@@ -28,7 +28,6 @@ import android.view.KeyEvent;
  * game, the class currently launches a menu to serve as a switchboard
  * for all functions the game offers.
  * 
- * @author  Marlon Etheredge <marlon.etheredge@gmail.com>
  * @version 0.1alpha
  */
 public class SurvivorGame extends Base implements IOnMenuItemClickListener 

@@ -14,7 +14,6 @@ import android.view.MenuItem;
  * for implementations and should be implemented for the purpose
  * of consistency.
  * 
- * @author  Marlon Etheredge <marlon.etheredge@gmail.com>
  * @version 0.1alpha
  * @todo	Add generic methods
  */

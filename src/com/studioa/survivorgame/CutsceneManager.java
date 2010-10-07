@@ -8,8 +8,6 @@ import org.anddev.andengine.entity.scene.Scene;
  * 
  * This class is not yet implemented, but should serve as a manager
  * for cutscene instances, yet to be implemented.
- * 
- * @author Marlon Etheredge <marlon.etheredge@gmail.com>
  */
 public class CutsceneManager extends Base 
 {
